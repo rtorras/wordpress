@@ -394,6 +394,7 @@ header p.title {
 	margin: 0; 
 	color: #e9eaeb; 
 	font: bold 3em/1.1em "PTSans", sans-serif;
+	font-size: 40px;
 }
 
 header p.title a {
@@ -405,6 +406,7 @@ header p.title a {
 header p.title a:hover {
 	color: #fff; 
 	text-decoration: none;
+	/* font-size: 20px; */
 }
 
 header p.tagline {
@@ -413,6 +415,7 @@ header p.tagline {
 	color: #6f7274; 
 	font: normal 0.857em/1.5em "PTSansCaption", sans-serif; text-transform: uppercase; 
 	text-shadow: 0 -1px 1px rgba(0,0,0,0.5);
+	font-size: 16px;
 }
 
 header form[class] {

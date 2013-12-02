@@ -26,7 +26,7 @@
 		<div>
 			
 			<div class="head-area">
-            	<p class="title"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></p> test
+            	<p class="title"><a href="<?php echo home_url(); ?>/"><?php bloginfo('name'); ?></a></p>
            		<p class="tagline"><?php bloginfo('description'); ?></p>
             </div>
             <?php get_search_form(); ?>

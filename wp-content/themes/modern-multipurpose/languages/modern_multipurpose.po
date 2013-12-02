@@ -1,0 +1,164 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Modern Multipurpose\n"
+"POT-Creation-Date: 2013-06-20 01:07+0100\n"
+"PO-Revision-Date: 2013-06-20 01:07+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: /"
+"/themes/modern_multipurpose\n"
+
+#: /themes/modern_multipurpose/404.php:3
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: /themes/modern_multipurpose/404.php:4
+msgid "Apologies, but the page you requested could not be found."
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:17
+msgid "Author Archive"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:19
+msgid "Blog Archives"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:27
+#: /themes/modern_multipurpose/image.php:5
+#: /themes/modern_multipurpose/index.php:9
+#: /themes/modern_multipurpose/page.php:5
+#: /themes/modern_multipurpose/search.php:12
+#: /themes/modern_multipurpose/single.php:7
+msgid "Edit this entry"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:32
+#: /themes/modern_multipurpose/index.php:14
+#: /themes/modern_multipurpose/search.php:17
+msgid " "
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:39
+#: /themes/modern_multipurpose/index.php:21
+#: /themes/modern_multipurpose/search.php:24
+msgid "Previous Posts"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:40
+#: /themes/modern_multipurpose/index.php:22
+#: /themes/modern_multipurpose/search.php:25
+msgid "Next posts"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:44
+#: /themes/modern_multipurpose/index.php:25
+msgid "Not found"
+msgstr ""
+
+#: /themes/modern_multipurpose/archive.php:45
+#: /themes/modern_multipurpose/index.php:26
+msgid "Sorry, but you are looking for something that isn't here."
+msgstr ""
+
+#: /themes/modern_multipurpose/comments.php:10
+msgid "Comments are currently closed."
+msgstr ""
+
+#: /themes/modern_multipurpose/footer.php:4
+msgid "Theme created by"
+msgstr ""
+
+#: /themes/modern_multipurpose/footer.php:4
+msgid "Powered by"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:21
+msgid "Header Menu"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:22
+msgid "Footer Menu"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:39
+msgid "Sidebar Widget Area"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:41
+msgid "The sidebar widget area"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:49
+msgid "Footer Widget Area 1"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:51
+msgid "The footer widget area 1"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:58
+msgid "Footer Widget Area 2"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:60
+msgid "The footer widget area 2"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:67
+msgid "Footer Widget Area 3"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:69
+msgid "The footer widget area 3"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:76
+msgid "Footer Widget Area 4"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:78
+msgid "The footer widget area 4"
+msgstr ""
+
+#: /themes/modern_multipurpose/functions.php:120
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: /themes/modern_multipurpose/image.php:6
+#, php-format
+msgid "<a href=\"%1$s\">%2$s</a>"
+msgstr ""
+
+#: /themes/modern_multipurpose/image.php:9
+#: /themes/modern_multipurpose/sidebar.php:5
+#: /themes/modern_multipurpose/single.php:11
+msgid "Pages"
+msgstr ""
+
+#: /themes/modern_multipurpose/search.php:30
+msgid "No posts found. Try a different search?"
+msgstr ""
+
+#: /themes/modern_multipurpose/searchform.php:3
+msgid "Search"
+msgstr ""
+
+#: /themes/modern_multipurpose/sidebar.php:11
+msgid "Categories"
+msgstr ""
+
+#: /themes/modern_multipurpose/sidebar.php:17
+msgid "Archives"
+msgstr ""
+
+#: /themes/modern_multipurpose/sidebar.php:24
+msgid "Meta"
+msgstr ""
